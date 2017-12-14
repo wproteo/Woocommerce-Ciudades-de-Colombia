@@ -6,7 +6,7 @@ La lista se basa en la información del Departamento Nacional de Estadística - 
 # Instalación
 
 1. Instalar el plugin en Wordpress con el procedimiento habitual
-1. Activar el plugin a travésd del men'u 'Plugins' de WordPress
+1. Activar el plugin a través del menú 'Plugins' de WordPress
 1. Eso es todo! La lista de municipios y el Departamento al que pertenece aparecerán en WooCommerce
 
 
